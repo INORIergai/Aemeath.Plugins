@@ -12,8 +12,6 @@ Aemeath 系列自研的 [Alife](https://github.com/BDFFZI/Alife) 插件源码与
 | --- | --- |
 | `Aemeath.CharacterCard` | 人格卡片 |
 | `Aemeath.EgoBrowser` | ego 浏览器 |
-| `Aemeath.EmotionTTS.E3` | 情感语音 E3（本地·曲线） |
-| `Aemeath.EmotionTTS.E5` | 情感语音 E5（本地·LLM 融合） |
 | `Aemeath.FishAudioTTS` | FishAudio 云端语音 |
 | `Aemeath.MultiASR` | 多通道云端语音识别 |
 | `Aemeath.Relations` | 关系档案 |
